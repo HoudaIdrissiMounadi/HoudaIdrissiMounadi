@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Houda Idrissi Mounadi</h1>
 <h3 align="center">Engineering Student | Software & Artificial Intelligence</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Artificial+Intelligence+Enthusiast;Future+Software+Engineer;Learning+Web+Development;Building+Cool+Projects;Open+Source+Contributor" />
+</p>
 
 <p align="center">
 💻 Passionate about Software Development and AI <br>
@@ -35,27 +38,29 @@
 
 ## 📊 GitHub Stats
 
-![Houda GitHub stats](https://github-readme-stats.vercel.app/api?username=HoudaIdrissiMounadi&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoudaIdrissiMounadi&layout=compact&theme=tokyonight)
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HoudaIdrissiMounadi&show_icons=true&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoudaIdrissiMounadi&layout=compact&theme=radical"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-🔹 **BookHub** – Online library platform (PHP, MySQL)  
-🔹 **Student API** – REST API with Node.js & Express  
-🔹 **Algorithms Practice** – Data structures and algorithms exercises  
+🔹 **Triply** – Travel app built with **Flutter** – [Repo](#)  
+🔹 **Hiritage Club** – Website built with **React.js** – [Demo](#)  
+🔹 **BookHub** – Online library platform with **PHP & MySQL** – [Demo](#)  
+🔹 **[Future Project]** – App or Website with **Node.js & Express** – [Repo](#) 
 
 ---
 
 ## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/houda-idrissimounadi-76339427b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="houda.idrissimounadi@usmba.ac.ma">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
