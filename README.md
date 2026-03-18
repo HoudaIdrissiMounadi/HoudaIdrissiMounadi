@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Houda Idrissi Mounadi ✨</h1>
 <h3 align="center">Engineering Student | Software & Artificial Intelligence</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Artificial+Intelligence+Enthusiast;Future+Software+Engineer;Learning+Web+Development;Building+Cool+Projects;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=FF2F7D&size=28&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Artificial+Intelligence+Enthusiast;Future+Software+Engineer;Learning+Web+Development;Building+Cool+Projects;Open+Source+Contributor" />
 </p>
 
 <p align="center">
